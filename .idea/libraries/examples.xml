@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/examples/InfiniteFroggerExample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/examples/givenEnvironment.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/examples/FroggerExample.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

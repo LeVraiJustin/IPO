@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="squelzip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataProject/squelzip/squelPartie1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DataProject/squelzip/squelPartie2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
