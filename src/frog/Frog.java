@@ -1,8 +1,9 @@
 package frog;
 
-import gameCommons.Case;
 import gameCommons.Game;
 import gameCommons.IFrog;
+import util.Case;
+import util.Direction;
 
 public class Frog implements IFrog {
 	
@@ -13,6 +14,18 @@ public class Frog implements IFrog {
 		this.game = game;
 	}
 
+	@Override
+	public Case getPosition() {
+		return null;
+	}
 
+	@Override
+	public Direction getDirection() {
+		return null;
+	}
 
+	@Override
+	public void move(Direction key) {
+
+	}
 }
